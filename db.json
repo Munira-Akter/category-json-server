@@ -39,47 +39,8 @@
           "skill" : "Mern stack Developer",
           "salary" :5000,
           "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/270182952_3053775348224061_8743289508235290382_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFiG5t6z2cjeZv-6K7ALNRMAoa8VLhxIskChrxUuHEiySnDPiqoH61UtP0pnYdVRC5PojFXrRCAvTyWHaX4aAzT&_nc_ohc=26WBuMLlxvQAX_ifD2p&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT-v7cLP-KSTF69JpT2mmjAWtsRj49c75-DPOMO9IwavRw&oe=6211FC1B"
-        },
-        {
-          "id"  : 6,
-          "name"  : "Ariful Hoque",
-          "age"   : 27,
-          "skill" : "Python Developer",
-          "salary" :4000,
-          "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/272616763_3051054661828457_1664950260442382302_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFyxwRegwwNwd2w7uaHmnGj6hvnu78b8X_qG-e7vxvxf4_Vq7xJ3UamWXpjlOl9WFL-jHISXE3Nz2Bw1piiQv_V&_nc_ohc=p86UinkJVfMAX9wmEMa&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT8eIlKpUq_ZiFBTzzhWegsB6edCHbE3EYhu1ro_dZZoAA&oe=6213DFFA"
-        },
-        {
-          "id"  : 7,
-          "name"  : "Hasan Anamul",
-          "age"   : 28,
-          "skill" : "PHP Developer",
-          "salary" :6000,
-          "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/105699964_2744923665739681_2716766128330014473_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGp8rP_xGEvPT6cMSXGVb5hg1NaS7su512DU1pLuy7nXae3hRHBPRZ0ITgGDHUn-2OS9zoNP2a5UMjAYS2inEkT&_nc_ohc=_ultBFw3-sEAX_Uv_LL&_nc_oc=AQk2AuWj14v7BhTEEEN6wyMoYGWvdNyTyKQ3C4WbRgIVqHFiVZ2KFwFDEfJuL6bpx9o&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT9iAQZXDI2P42M-JHHKnSQrt8sMTplf57JTEaw8SlkGeg&oe=6233932F"
-        },
-        {
-          "id"  : 8,
-          "name"  : "Ismeail Hossain",
-          "age"   : 34,
-          "skill" : "Wordpress Developer",
-          "salary" :3000,
-          "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/264286252_1305030339918897_4943995571496746377_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGJTQoBLzp0NSLTMejjnRsDIfnL3D_UaYAh-cvcP9RpgEM1fHrvHUFGBqo8anQ2poTppG05BqzSALBaahJLd9pw&_nc_ohc=hLbXL_dVIt0AX90e-uJ&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT93WW1DhnpPjvAkRUaBvKCMp2bQ7pJbu7g4kLaKYxBSbw&oe=62144DA9"
-        },
-        {
-          "id"  : 9,
-          "name"  : "Rupa Roy",
-          "age"   : 28,
-          "skill" : "PHP Developer",
-          "salary" :5000,
-          "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/165786729_138209384976683_7335117272687567806_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG00JHiKekHeEAk_FiGNC7CKZwZGSahrkYpnBkZJqGuRpod1bG6KRcaqBg7liQAr6EEVvT1Dp6BJJ4FkLJQcZvN&_nc_ohc=SwuvSoflIJAAX9n7gHN&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT8AazWGJPm0UumdP7xjOME2kYjAdrjUoW4fBilebSpr-Q&oe=6235ED06"
-        },
-        {
-          "id"  : 10,
-          "name"  : "Shawon Shek",
-          "age"   : 26,
-          "skill" : "Mern stack Developer",
-          "salary" :6000,
-          "photo"  : "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/269769053_133371022431175_6625342310122917797_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEshVcFEBxUBFy8o3BGCgX_qlBZfi6dSCOqUFl-Lp1II1qipXCsEbYiYBC5zhBsovrWMRFPqFrb60bLCaIN7TFj&_nc_ohc=OBJCr8lXKPcAX8xb_wb&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT_EmF9IMDLHk2JTIseNUQZG6gWa1J6pWZbdEMRNaf5StA&oe=6212A3CC"
         }
+      
     ]
     
     
