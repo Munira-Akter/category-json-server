@@ -234,61 +234,8 @@
           "ssc"           : 56,
           "reli"          : 44
         }
-      ],
-    
-      "brand"   :[
-        {
-          "id"          : 1,
-          "brand_name"  : "Apache",
-          "photo"       : "https://ic1.maxabout.us/autos/tw_india//T/2021/5/tvs-apache-rtr-160-2v-2021.jpg"
-        },
-        {
-          "id"          : 2,
-          "brand_name"  : "Yemaha",
-          "photo"       : "https://i.ytimg.com/vi/lKSADEX0GCk/hqdefault.jpg"
-        },
-        {
-          "id"          : 3,
-          "brand_name"  : "Canon",
-          "photo"       : "https://i1.adis.ws/i/canon/eos-r3-lifestyle-vladimir-rys_hero_2a6badbad75a4f66889cddf4479e97c6?$70-30-header-4by3-dt-jpg$"
-        },
-        {
-          "id"          : 4,
-          "brand_name"  : "Miyako",
-          "photo"       : "https://ants.brilliant.com.bd/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/m/i/miyako_rc.png"
-        },
-        {
-          "id"          : 5,
-          "brand_name"  : "Phlips",
-          "photo"       : "https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFMYjhtMDhqOUwuX1NMMTUwMF8uanBn.jpg"
-        },
-        {
-          "id"          : 6,
-          "brand_name"  : "Walton",
-          "photo"       : "https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd238v02/wd238v02-1-228x228.jpg"
-        },
-        {
-          "id"          : 7,
-          "brand_name"  : "Monister",
-          "photo"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGenN0jR6fwZY7KGetlQQg7LL-ipk2c_rwV2iF92KK1MYs81-02LZS7r7JW9gp9FMH5I&usqp=CAU"
-        },
-        {
-          "id"          : 8,
-          "brand_name"  : "LG",
-          "photo"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8ENhEjLjZN6uPbwV0c-lG3m-q28yw47Pyg&usqp=CAU"
-        },
-        {
-          "id"          : 9,
-          "brand_name"  : "Toshiba",
-          "photo"       : "https://static.toiimg.com/photo/58920973.cms"
-        },
-        
-        {
-          "id"          : 10,
-          "brand_name"  : "HP",
-          "photo"       : "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/y7evd808utidrkbm_1640189642.jpeg"
-        }
-        
       ]
+    
+     
     
 }
